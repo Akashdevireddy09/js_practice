@@ -6,3 +6,15 @@ console.log(3
 
 
 console.log("Akash Devireddy")
+
+// number => 2 power 53
+//bigint
+//String=>""
+//boolean=>true/false
+// null=standalone value and a "object" type
+//undefined=>
+//symbol
+
+console.log(typeof undefined) // undefined
+console.log(typeof null); //object
+
